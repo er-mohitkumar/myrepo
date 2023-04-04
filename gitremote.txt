@@ -1,3 +1,5 @@
 Create account on Github
 Create empty repository
 Local system
+	git config --global user.name "er-mohitkumar"
+	git config --global user.email "er.mohitkumar2003@gmail.com"
