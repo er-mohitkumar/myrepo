@@ -1,1 +1,2 @@
-1. Create account on Github
+Create account on Github
+Create empty repository
